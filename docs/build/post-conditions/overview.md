@@ -265,6 +265,7 @@ Alongside those limitations, it should be obvious, but it’s worth explicitly s
 
 ### Additional Resources
 
+* \[[Best Practices](best-practices.md)] Common patterns, testing strategies, and gotchas
 * \[[Hiro Blog](https://www.hiro.so/blog/a-developers-guide-to-post-conditions)] A Developer’s Guide to Post-Conditions
 * \[[dev.to](https://dev.to/stacks/understanding-stacks-post-conditions-e65)] Understanding Stacks Post Conditions
 * \[[Hiro YT](https://youtu.be/xXgQB8NfdEY?si=aEY_wrLybfWPMJTt)] ELI5: Post-Condtions on Stacks
